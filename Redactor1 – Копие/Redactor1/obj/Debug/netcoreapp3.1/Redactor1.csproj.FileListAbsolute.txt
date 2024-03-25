@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\Redactor\Redactor1\Redactor1\obj\Debug\netcoreapp3.1\Redactor1.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Redactor\Redactor1\Redactor1\obj\Debug\netcoreapp3.1\Redactor1.Form1.resources
+C:\Users\Acer\Desktop\Redactor\Redactor1\Redactor1\obj\Debug\netcoreapp3.1\Redactor1.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Redactor\Redactor1\Redactor1\obj\Debug\netcoreapp3.1\Redactor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Redactor\Redactor1\Redactor1\obj\Debug\netcoreapp3.1\Redactor1.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Redactor\Redactor1\Redactor1\obj\Debug\netcoreapp3.1\Redactor1.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Redactor\Redactor1\Redactor1\obj\Debug\netcoreapp3.1\Redactor1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Redactor\Redactor1\Redactor1\bin\Debug\netcoreapp3.1\Redactor1.exe
+C:\Users\Acer\Desktop\Redactor\Redactor1\Redactor1\bin\Debug\netcoreapp3.1\Redactor1.deps.json
+C:\Users\Acer\Desktop\Redactor\Redactor1\Redactor1\bin\Debug\netcoreapp3.1\Redactor1.runtimeconfig.json
+C:\Users\Acer\Desktop\Redactor\Redactor1\Redactor1\bin\Debug\netcoreapp3.1\Redactor1.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Redactor\Redactor1\Redactor1\bin\Debug\netcoreapp3.1\Redactor1.dll
+C:\Users\Acer\Desktop\Redactor\Redactor1\Redactor1\bin\Debug\netcoreapp3.1\Redactor1.pdb
+C:\Users\Acer\Desktop\Redactor\Redactor1\Redactor1\obj\Debug\netcoreapp3.1\Redactor1.dll
+C:\Users\Acer\Desktop\Redactor\Redactor1\Redactor1\obj\Debug\netcoreapp3.1\Redactor1.pdb
+C:\Users\Acer\Desktop\Redactor\Redactor1\Redactor1\obj\Debug\netcoreapp3.1\Redactor1.genruntimeconfig.cache
